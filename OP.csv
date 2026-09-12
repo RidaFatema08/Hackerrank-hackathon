@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000,affordable_now,full_payment,2025-08-03:15656000,03-08-2025,none,Pay IDR 15656000 today. The 90-day forecast keeps at least IDR 24768300 available.
+request_27,6670,affordable_now,full_payment,2026-07-05:6670,05-07-2026,none,Pay ZAR 6670 today. The 90-day forecast keeps at least ZAR 20500 available.
+request_28,265.81,affordable_later,wait,2024-07-16:1302.4,16-07-2024,none,Pay EUR 1302.4 in full on 2024-07-16. Paying sooner would put the EUR 1100 minimum at risk.
+request_29,21980.64,not_affordable,not_recommended,none,,none,Do not proceed by 2025-11-23. No eligible payment plan keeps the ZAR 28300 minimum protected through the 90-day forecast.
+request_30,775.2,affordable_with_plan,installments,2026-04-06:268.74|2026-05-06:268.74|2026-06-05:268.74,06-04-2026,none,Use the selected installment schedule to complete the request by 2026-06-06. The forecast keeps the USD 900 minimum protected.
+request_31,2637592.52,affordable_later,wait,2024-09-16:18164000,16-09-2024,none,Pay IDR 18164000 in full on 2024-09-16. Paying sooner would put the IDR 16588900 minimum at risk.
+request_32,0,not_affordable,not_recommended,none,,none,Do not proceed by 2025-04-15. No eligible payment plan keeps the ZAR 35700 minimum protected through the 90-day forecast.
+request_33,29880.53,not_affordable,not_recommended,none,19-03-2026,none,Do not proceed by 2026-03-15. No eligible payment plan keeps the INR 102100 minimum protected through the 90-day forecast.
+request_34,129400,affordable_now,full_payment,2024-12-04:129400,04-12-2024,none,Pay INR 129400 today. The 90-day forecast keeps at least INR 138500 available.
+request_35,36254.03,not_affordable,not_recommended,none,17-01-2026,none,Do not proceed by 2026-01-15. No eligible payment plan keeps the INR 106400 minimum protected through the 90-day forecast.
+request_36,639.6,affordable_later,wait,2026-07-17:3954,17-07-2026,none,Pay USD 3954 in full on 2026-07-17. Paying sooner would put the USD 2400 minimum at risk.
+request_37,0,not_affordable,not_recommended,none,,none,Do not proceed by 2024-05-15. No eligible payment plan keeps the IDR 17056200 minimum protected through the 90-day forecast.
+request_38,204.68,affordable_later,wait,2025-09-16:971.3,16-09-2025,none,Pay EUR 971.3 in full on 2025-09-16. Paying sooner would put the EUR 400 minimum at risk.
+request_39,76150.01,affordable_later,wait,2026-05-17:208600,17-05-2026,none,Pay INR 208600 in full on 2026-05-17. Paying sooner would put the INR 213400 minimum at risk.
+request_40,0,not_affordable,not_recommended,none,,none,Do not proceed by 2024-08-15. No eligible payment plan keeps the EUR 1500 minimum protected through the 90-day forecast.
+request_41,0,not_affordable,not_recommended,none,,none,Do not proceed by 2026-01-15. No eligible payment plan keeps the IDR 25366600 minimum protected through the 90-day forecast.
+request_42,52100,affordable_now,full_payment,2026-01-05:52100,05-01-2026,none,Pay INR 52100 today. The 90-day forecast keeps at least INR 113100 available.
+request_43,12306190.49,affordable_later,wait,2024-11-13:43339000,13-11-2024,none,Pay IDR 43339000 in full on 2024-11-13. Paying sooner would put the IDR 21398000 minimum at risk.
+request_44,0,not_affordable,not_recommended,none,,none,Do not proceed by 2025-04-15. No eligible payment plan keeps the INR 82900 minimum protected through the 90-day forecast.
+request_45,4373773.49,not_affordable,not_recommended,none,17-09-2026,none,Do not proceed by 2026-09-15. No eligible payment plan keeps the IDR 11149800 minimum protected through the 90-day forecast.
+request_46,40877.27,affordable_with_plan,partial_payment,2024-12-03:40877.27|2024-12-16:8572.73,16-12-2024,none,Pay INR 40877.27 on the request date and the remaining amount on 2024-12-16. This completes the request while protecting the minimum balance.
+request_47,38114000,affordable_now,full_payment,2025-05-05:38114000,05-05-2025,none,Pay IDR 38114000 today. The 90-day forecast keeps at least IDR 30049000 available.
+request_48,45700,affordable_now,full_payment,2026-07-25:45700,25-07-2026,none,Pay INR 45700 today. The 90-day forecast keeps at least INR 71300 available.
+request_49,13273779.12,affordable_with_plan,installments,2024-03-18:11902106.67|2024-04-18:11902106.67|2024-05-19:11902106.67,18-04-2024,none,Use the selected installment schedule to complete the request by 2024-05-22. The forecast keeps the IDR 20275700 minimum protected.
+request_50,43900,affordable_now,full_payment,2025-08-06:43900,06-08-2025,none,Pay INR 43900 today. The 90-day forecast keeps at least INR 99700 available.
+request_51,2191000,affordable_now,full_payment,2026-01-03:2191000,03-01-2026,none,Pay IDR 2191000 today. The 90-day forecast keeps at least IDR 7811000 available.
+request_52,18820.33,affordable_later,wait,2024-06-17:28870,17-06-2024,none,Pay INR 28870 in full on 2024-06-17. Paying sooner would put the INR 41500 minimum at risk.
+request_53,623.55,not_affordable,not_recommended,none,17-01-2026,none,Do not proceed by 2026-01-20. No eligible payment plan keeps the USD 2100 minimum protected through the 90-day forecast.
+request_54,4508.73,not_affordable,not_recommended,none,17-08-2026,none,Do not proceed by 2026-08-21. No eligible payment plan keeps the ZAR 37000 minimum protected through the 90-day forecast.
+request_55,119442.26,affordable_with_plan,installments,2026-06-11:75781.33|2026-07-12:75781.33|2026-08-12:75781.33,17-07-2026,stop:event_5101,Use the selected installment schedule to complete the request by 2026-08-22. The forecast keeps the INR 124300 minimum protected.
+request_56,601.13,affordable_with_plan,partial_payment,2025-02-03:601.13|2025-02-16:280.43,16-02-2025,none,Pay USD 601.13 on the request date and the remaining amount on 2025-02-16. This completes the request while protecting the minimum balance.
+request_57,15164.33,affordable_later,wait,2026-05-17:61446,17-05-2026,none,Pay ZAR 61446 in full on 2026-05-17. Paying sooner would put the ZAR 42700 minimum at risk.
+request_58,16226000,affordable_now,full_payment,2024-12-07:16226000,07-12-2024,none,Pay IDR 16226000 today. The 90-day forecast keeps at least IDR 14433900 available.
+request_59,140600,affordable_with_plan,installments,2025-05-07:48741.33|2025-06-04:48741.33|2025-07-02:48741.33,04-05-2025,none,Use the selected installment schedule to complete the request by 2025-07-02. The forecast keeps the INR 132600 minimum protected.
+request_60,106.94,affordable_later,wait,2026-02-16:199.89,16-02-2026,none,Pay USD 199.89 in full on 2026-02-16. Paying sooner would put the USD 400 minimum at risk.
+request_61,29062,affordable_with_plan,installments,2024-03-17:10074.83|2024-04-17:10074.83|2024-05-18:10074.83,03-03-2024,none,Use the selected installment schedule to complete the request by 2024-05-24. The forecast keeps the ZAR 36700 minimum protected.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,05-08-2025,none,Pay USD 404.23 today. The 90-day forecast keeps at least USD 1300 available.
+request_63,48038.36,affordable_with_plan,partial_payment,2026-07-07:48038.36|2026-09-17:295861.64,17-09-2026,none,Pay INR 48038.36 on the request date and the remaining amount on 2026-09-17. This completes the request while protecting the minimum balance.
+request_64,0,not_affordable,not_recommended,none,,none,Do not proceed by 2024-08-16. No eligible payment plan keeps the INR 36100 minimum protected through the 90-day forecast.
+request_65,7267.71,not_affordable,not_recommended,none,,none,Do not proceed by 2025-11-25. No eligible payment plan keeps the ZAR 15500 minimum protected through the 90-day forecast.
+request_66,22200,affordable_now,full_payment,2026-04-03:22200,03-04-2026,none,Pay INR 22200 today. The 90-day forecast keeps at least INR 80700 available.
+request_67,258.93,affordable_later,wait,2024-09-16:2094,16-09-2024,none,Pay USD 2094 in full on 2024-09-16. Paying sooner would put the USD 1200 minimum at risk.
+request_68,1408.73,affordable_with_plan,installments,2025-02-14:725.09|2025-03-14:725.09|2025-04-11:725.09,19-03-2025,none,Use the selected installment schedule to complete the request by 2025-04-16. The forecast keeps the USD 1500 minimum protected.
+request_69,529.1,affordable_now,full_payment,2026-01-04:529.1,04-01-2026,none,Pay EUR 529.1 today. The 90-day forecast keeps at least EUR 700 available.
+request_70,51731.77,not_affordable,not_recommended,none,17-02-2025,none,Do not proceed by 2025-02-15. No eligible payment plan keeps the INR 115000 minimum protected through the 90-day forecast.
+request_71,324024.38,not_affordable,not_recommended,none,,none,Do not proceed by 2025-05-28. No eligible payment plan keeps the IDR 8884800 minimum protected through the 90-day forecast.
+request_72,0,not_affordable,not_recommended,none,,none,Do not proceed by 2026-07-14. No eligible payment plan keeps the ZAR 12200 minimum protected through the 90-day forecast.
+request_73,71400,affordable_now,full_payment,2023-01-20:71400,20-01-2023,none,Pay INR 71400 today. The 90-day forecast keeps at least INR 103200 available.
+request_74,5010,affordable_now,full_payment,2025-08-04:5010,04-08-2025,none,Pay ZAR 5010 today. The 90-day forecast keeps at least ZAR 21900 available.
+request_75,28270,affordable_with_plan,installments,2026-04-09:9800.27|2026-05-09:9800.27|2026-06-08:9800.27,06-04-2026,none,Use the selected installment schedule to complete the request by 2026-06-12. The forecast keeps the ZAR 39000 minimum protected.
+request_76,945.09,not_affordable,not_recommended,none,16-08-2024,none,Do not proceed by 2024-07-30. No eligible payment plan keeps the USD 1800 minimum protected through the 90-day forecast.
+request_77,60700,affordable_now,full_payment,2025-11-05:60700,05-11-2025,none,Pay INR 60700 today. The 90-day forecast keeps at least INR 82200 available.
+request_78,40892.25,not_affordable,not_recommended,none,17-11-2025,none,Do not proceed by 2025-10-14. No eligible payment plan keeps the INR 55200 minimum protected through the 90-day forecast.
+request_79,227.54,not_affordable,not_recommended,none,,none,Do not proceed by 2024-11-01. No eligible payment plan keeps the EUR 1000 minimum protected through the 90-day forecast.
+request_80,50219.91,not_affordable,not_recommended,none,16-04-2025,none,Do not proceed by 2025-02-21. No eligible payment plan keeps the INR 121300 minimum protected through the 90-day forecast.
+request_81,2076,affordable_now,full_payment,2026-07-03:2076,03-07-2026,none,Pay USD 2076 today. The 90-day forecast keeps at least USD 1600 available.
+request_82,415.22,affordable_later,wait,2025-01-16:1405.2,16-01-2025,none,Pay USD 1405.2 in full on 2025-01-16. Paying sooner would put the USD 1100 minimum at risk.
+request_83,8063.32,not_affordable,not_recommended,none,,none,Do not proceed by 2025-06-17. No eligible payment plan keeps the INR 37800 minimum protected through the 90-day forecast.
+request_84,19068.68,not_affordable,not_recommended,none,,none,Do not proceed by 2026-06-15. No eligible payment plan keeps the INR 91300 minimum protected through the 90-day forecast.
+request_85,1296076.34,not_affordable,not_recommended,none,19-05-2024,none,Do not proceed by 2024-04-26. No eligible payment plan keeps the IDR 6396300 minimum protected through the 90-day forecast.
+request_86,46300,affordable_now,full_payment,2025-08-03:46300,03-08-2025,none,Pay INR 46300 today. The 90-day forecast keeps at least INR 84900 available.
+request_87,0,not_affordable,not_recommended,none,,none,Do not proceed by 2026-03-15. No eligible payment plan keeps the INR 185900 minimum protected through the 90-day forecast.
+request_88,11959.79,affordable_with_plan,installments,2024-06-14:9045.23|2024-07-15:9045.23|2024-08-15:9045.23,16-06-2024,none,Use the selected installment schedule to complete the request by 2024-08-25. The forecast keeps the ZAR 25800 minimum protected.
+request_89,9768536.88,affordable_with_plan,installments,2025-11-18:4768746.67|2025-12-16:4768746.67|2026-01-13:4768746.67,17-12-2025,none,Use the selected installment schedule to complete the request by 2026-01-15. The forecast keeps the IDR 12534700 minimum protected.
+request_90,2560,affordable_now,full_payment,2026-07-06:2560,06-07-2026,none,Pay ZAR 2560 today. The 90-day forecast keeps at least ZAR 7600 available.
+request_91,279.02,not_affordable,not_recommended,none,17-11-2024,none,Do not proceed by 2024-11-15. No eligible payment plan keeps the EUR 2100 minimum protected through the 90-day forecast.
+request_92,34034,affordable_now,full_payment,2025-02-05:34034,05-02-2025,none,Pay ZAR 34034 today. The 90-day forecast keeps at least ZAR 28100 available.
+request_93,1729.2,affordable_now,full_payment,2026-04-07:1729.2,07-04-2026,none,Pay USD 1729.2 today. The 90-day forecast keeps at least USD 1900 available.
+request_94,572,affordable_now,full_payment,2024-12-04:572,04-12-2024,none,Pay EUR 572 today. The 90-day forecast keeps at least EUR 600 available.
+request_95,59262.77,not_affordable,not_recommended,none,,none,Do not proceed by 2025-07-14. No eligible payment plan keeps the INR 145500 minimum protected through the 90-day forecast.
+request_96,0,not_affordable,not_recommended,none,,none,Do not proceed by 2026-03-12. No eligible payment plan keeps the INR 56500 minimum protected through the 90-day forecast.
+request_97,2960.25,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,16-03-2024,none,Use the selected installment schedule to complete the request by 2024-05-24. The forecast keeps the ZAR 29700 minimum protected.
+request_98,6498.49,affordable_later,wait,2025-08-16:27148,16-08-2025,none,Pay ZAR 27148 in full on 2025-08-16. Paying sooner would put the ZAR 30000 minimum at risk.
+request_99,18062,affordable_now,full_payment,2026-07-04:18062,04-07-2026,none,Pay ZAR 18062 today. The 90-day forecast keeps at least ZAR 49100 available.
+request_100,23317.69,not_affordable,not_recommended,none,17-08-2024,none,Do not proceed by 2024-08-16. No eligible payment plan keeps the ZAR 32500 minimum protected through the 90-day forecast.
+request_101,143500,affordable_now,full_payment,2025-11-03:143500,03-11-2025,none,Pay INR 143500 today. The 90-day forecast keeps at least INR 187400 available.
+request_102,1716,affordable_with_plan,installments,2026-04-05:594.88|2026-05-05:594.88|2026-06-04:594.88,05-04-2026,none,Use the selected installment schedule to complete the request by 2026-06-12. The forecast keeps the EUR 900 minimum protected.
+request_103,0,not_affordable,not_recommended,none,,none,Do not proceed by 2024-10-07. No eligible payment plan keeps the INR 125500 minimum protected through the 90-day forecast.
+request_104,17204,affordable_now,full_payment,2025-02-04:17204,04-02-2025,none,Pay ZAR 17204 today. The 90-day forecast keeps at least ZAR 24700 available.
+request_105,53500,affordable_now,full_payment,2026-06-08:53500,08-06-2026,none,Pay INR 53500 today. The 90-day forecast keeps at least INR 73900 available.
+request_106,539.84,affordable_later,wait,2025-01-17:2207.7,17-01-2025,none,Pay EUR 2207.7 in full on 2025-01-17. Paying sooner would put the EUR 1200 minimum at risk.
+request_107,348.67,not_affordable,not_recommended,none,,none,Do not proceed by 2025-07-04. No eligible payment plan keeps the EUR 1600 minimum protected through the 90-day forecast.
+request_108,4760.19,not_affordable,not_recommended,none,16-08-2026,none,Do not proceed by 2026-07-26. No eligible payment plan keeps the ZAR 24100 minimum protected through the 90-day forecast.
+request_109,571.03,affordable_with_plan,installments,2024-03-18:645.98|2024-04-18:645.98|2024-05-19:645.98,16-03-2024,none,Use the selected installment schedule to complete the request by 2024-05-26. The forecast keeps the EUR 1700 minimum protected.
+request_110,22352,affordable_with_plan,installments,2025-08-06:7748.69|2025-09-03:7748.69|2025-10-01:7748.69,06-08-2025,none,Use the selected installment schedule to complete the request by 2025-10-11. The forecast keeps the ZAR 11200 minimum protected.
+request_111,16625000,affordable_now,full_payment,2026-04-03:16625000,03-04-2026,none,Pay IDR 16625000 today. The 90-day forecast keeps at least IDR 23022800 available.
+request_112,0,not_affordable,not_recommended,none,,none,Do not proceed by 2024-06-14. No eligible payment plan keeps the EUR 500 minimum protected through the 90-day forecast.
+request_113,28864.99,affordable_later,wait,2026-09-16:36500,16-09-2026,none,Pay INR 36500 in full on 2026-09-16. Paying sooner would put the INR 82300 minimum at risk.
+request_114,54431.67,not_affordable,not_recommended,none,16-01-2026,none,Do not proceed by 2026-01-14. No eligible payment plan keeps the INR 113400 minimum protected through the 90-day forecast.
+request_115,16803.84,not_affordable,not_recommended,none,17-11-2024,none,Do not proceed by 2024-11-15. No eligible payment plan keeps the INR 38800 minimum protected through the 90-day forecast.
+request_116,12082.79,not_affordable,not_recommended,none,,none,Do not proceed by 2025-04-16. No eligible payment plan keeps the INR 80300 minimum protected through the 90-day forecast.
+request_117,880,affordable_now,full_payment,2026-07-05:880,05-07-2026,none,Pay EUR 880 today. The 90-day forecast keeps at least EUR 1000 available.
+request_118,642.8,affordable_with_plan,installments,2024-12-07:255.87|2025-01-07:255.87|2025-02-07:255.87,16-01-2025,none,Use the selected installment schedule to complete the request by 2025-02-08. The forecast keeps the EUR 600 minimum protected.
+request_119,59919.03,not_affordable,not_recommended,none,16-07-2025,none,Do not proceed by 2025-07-17. No eligible payment plan keeps the INR 151200 minimum protected through the 90-day forecast.
+request_120,7714000,affordable_now,full_payment,2026-04-06:7714000,06-04-2026,none,Pay IDR 7714000 today. The 90-day forecast keeps at least IDR 20050300 available.
+request_121,633.6,affordable_now,full_payment,2024-03-03:633.6,03-03-2024,none,Pay USD 633.6 today. The 90-day forecast keeps at least USD 800 available.
+request_122,20558000,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,05-08-2025,none,Use the selected installment schedule to complete the request by 2025-10-02. The forecast keeps the IDR 12588500 minimum protected.
+request_123,4076000,affordable_now,full_payment,2026-01-07:4076000,07-01-2026,none,Pay IDR 4076000 today. The 90-day forecast keeps at least IDR 18091200 available.
+request_124,1497.09,affordable_with_plan,installments,2024-06-11:1076.12|2024-07-12:1076.12|2024-08-12:1076.12,16-06-2024,none,Use the selected installment schedule to complete the request by 2024-08-20. The forecast keeps the EUR 1600 minimum protected.
+request_125,5289.54,not_affordable,not_recommended,none,16-11-2025,none,Do not proceed by 2025-11-14. No eligible payment plan keeps the ZAR 11300 minimum protected through the 90-day forecast.
+request_126,159600,affordable_now,full_payment,2026-07-03:159600,03-07-2026,none,Pay INR 159600 today. The 90-day forecast keeps at least INR 129700 available.
+request_127,4172.75,not_affordable,not_recommended,none,16-11-2024,none,Do not proceed by 2024-10-18. No eligible payment plan keeps the ZAR 41000 minimum protected through the 90-day forecast.
+request_128,25168,affordable_now,full_payment,2025-02-07:25168,07-02-2025,none,Pay ZAR 25168 today. The 90-day forecast keeps at least ZAR 42600 available.
+request_129,159.01,not_affordable,not_recommended,none,,none,Do not proceed by 2026-06-18. No eligible payment plan keeps the USD 800 minimum protected through the 90-day forecast.
+request_130,215.09,affordable_later,wait,2025-01-17:1978.8,17-01-2025,none,Pay USD 1978.8 in full on 2025-01-17. Paying sooner would put the USD 1400 minimum at risk.
+request_131,1335.65,affordable_with_plan,installments,2025-05-06:643.14|2025-06-03:643.14|2025-07-01:643.14,17-06-2025,none,Use the selected installment schedule to complete the request by 2025-07-08. The forecast keeps the USD 1100 minimum protected.
+request_132,251.01,affordable_later,wait,2026-01-16:379.86,16-01-2026,none,Pay USD 379.86 in full on 2026-01-16. Paying sooner would put the USD 1100 minimum at risk.
+request_133,1257596.49,not_affordable,not_recommended,none,,none,Do not proceed by 2024-03-29. No eligible payment plan keeps the IDR 9986200 minimum protected through the 90-day forecast.
+request_134,5065237.31,not_affordable,not_recommended,none,17-10-2025,none,Do not proceed by 2025-10-15. No eligible payment plan keeps the IDR 15902500 minimum protected through the 90-day forecast.
+request_135,304.8,affordable_now,full_payment,2026-07-06:304.8,06-07-2026,none,Pay USD 304.8 today. The 90-day forecast keeps at least USD 500 available.
+request_136,560.4,affordable_now,full_payment,2024-06-03:560.4,03-06-2024,none,Pay USD 560.4 today. The 90-day forecast keeps at least USD 1100 available.
+request_137,31632.92,not_affordable,not_recommended,none,17-01-2026,none,Do not proceed by 2026-01-15. No eligible payment plan keeps the INR 71800 minimum protected through the 90-day forecast.
+request_138,864.63,affordable_with_plan,partial_payment,2026-04-07:864.63|2026-04-16:392.31,16-04-2026,none,Pay EUR 864.63 on the request date and the remaining amount on 2026-04-16. This completes the request while protecting the minimum balance.
+request_139,1095.42,not_affordable,not_recommended,none,17-11-2024,none,Do not proceed by 2024-11-17. No eligible payment plan keeps the USD 1500 minimum protected through the 90-day forecast.
+request_140,0,not_affordable,not_recommended,none,,none,Do not proceed by 2025-03-04. No eligible payment plan keeps the ZAR 21600 minimum protected through the 90-day forecast.
+request_141,19581.18,not_affordable,not_recommended,none,,none,Do not proceed by 2026-02-12. No eligible payment plan keeps the INR 67300 minimum protected through the 90-day forecast.
+request_142,1263.6,affordable_now,full_payment,2024-12-05:1263.6,05-12-2024,none,Pay USD 1263.6 today. The 90-day forecast keeps at least USD 1700 available.
+request_143,2861.01,not_affordable,not_recommended,none,18-07-2025,none,Do not proceed by 2025-07-15. No eligible payment plan keeps the ZAR 11300 minimum protected through the 90-day forecast.
+request_144,0,not_affordable,not_recommended,none,,none,Do not proceed by 2026-07-26. No eligible payment plan keeps the USD 600 minimum protected through the 90-day forecast.
+request_145,40169.34,affordable_with_plan,installments,2024-03-20:75365.33|2024-04-20:75365.33|2024-05-21:75365.33,16-04-2024,none,Use the selected installment schedule to complete the request by 2024-05-26. The forecast keeps the INR 155400 minimum protected.
+request_146,19155.08,not_affordable,not_recommended,none,,none,Do not proceed by 2025-10-17. No eligible payment plan keeps the INR 108600 minimum protected through the 90-day forecast.
+request_147,481.81,affordable_with_plan,installments,2026-04-08:391.63|2026-05-08:391.63|2026-06-07:391.63,16-04-2026,none,Use the selected installment schedule to complete the request by 2026-06-07. The forecast keeps the EUR 900 minimum protected.
+request_148,8055.08,affordable_with_plan,installments,2024-06-14:7710.56|2024-07-15:7710.56|2024-08-15:7710.56,17-07-2024,stop:event_13593,Use the selected installment schedule to complete the request by 2024-08-18. The forecast keeps the ZAR 20000 minimum protected.
+request_149,23878.48,affordable_with_plan,installments,2025-11-18:12706.03|2025-12-16:12706.03|2026-01-13:12706.03,17-12-2025,none,Use the selected installment schedule to complete the request by 2026-01-19. The forecast keeps the ZAR 42100 minimum protected.
+request_150,305.48,affordable_with_plan,installments,2026-01-06:171.98|2026-02-05:171.98|2026-03-07:171.98,19-03-2026,stop:event_13786|reduce_to:event_13787:16,Use the selected installment schedule to complete the request by 2026-03-16. The forecast keeps the EUR 700 minimum protected.
+request_151,26999000,affordable_now,full_payment,2024-09-03:26999000,03-09-2024,none,Pay IDR 26999000 today. The 90-day forecast keeps at least IDR 31633600 available.
+request_152,8589.77,not_affordable,not_recommended,none,19-04-2025,none,Do not proceed by 2025-04-13. No eligible payment plan keeps the ZAR 11900 minimum protected through the 90-day forecast.
+request_153,0,not_affordable,not_recommended,none,,none,Do not proceed by 2026-09-24. No eligible payment plan keeps the USD 1400 minimum protected through the 90-day forecast.
+request_154,1625.8,affordable_with_plan,installments,2024-12-04:563.61|2025-01-04:563.61|2025-02-04:563.61,04-12-2024,none,Use the selected installment schedule to complete the request by 2025-02-14. The forecast keeps the EUR 1300 minimum protected.
+request_155,112500,affordable_now,full_payment,2025-05-06:112500,06-05-2025,none,Pay INR 112500 today. The 90-day forecast keeps at least INR 56300 available.
+request_156,9830.86,affordable_later,wait,2026-05-17:43076,17-05-2026,none,Pay ZAR 43076 in full on 2026-05-17. Paying sooner would put the ZAR 26900 minimum at risk.
+request_157,4009501.72,affordable_later,wait,2024-04-18:23503000,18-04-2024,none,Pay IDR 23503000 in full on 2024-04-18. Paying sooner would put the IDR 15714100 minimum at risk.
+request_158,213506.75,not_affordable,not_recommended,none,,none,Do not proceed by 2025-10-02. No eligible payment plan keeps the INR 131400 minimum protected through the 90-day forecast.
+request_159,13398,affordable_now,full_payment,2026-01-04:13398,04-01-2026,none,Pay ZAR 13398 today. The 90-day forecast keeps at least ZAR 8700 available.
+request_160,643.61,affordable_with_plan,installments,2024-06-13:432.05|2024-07-14:432.05|2024-08-14:432.05,17-06-2024,none,Use the selected installment schedule to complete the request by 2024-08-20. The forecast keeps the EUR 1200 minimum protected.
+request_161,0,not_affordable,not_recommended,none,,none,Do not proceed by 2026-01-15. No eligible payment plan keeps the IDR 23010400 minimum protected through the 90-day forecast.
+request_162,3827993.79,not_affordable,not_recommended,none,,none,Do not proceed by 2026-08-26. No eligible payment plan keeps the IDR 24161100 minimum protected through the 90-day forecast.
+request_163,9681878.53,not_affordable,not_recommended,none,17-11-2024,none,Do not proceed by 2024-11-15. No eligible payment plan keeps the IDR 26728700 minimum protected through the 90-day forecast.
+request_164,27018000,affordable_with_plan,installments,2025-02-11:9366240|2025-03-11:9366240|2025-04-08:9366240,04-02-2025,none,Use the selected installment schedule to complete the request by 2025-04-15. The forecast keeps the IDR 29550500 minimum protected.
+request_165,80600,affordable_now,full_payment,2026-04-06:80600,06-04-2026,none,Pay INR 80600 today. The 90-day forecast keeps at least INR 95000 available.
+request_166,2907.6,affordable_with_plan,installments,2024-12-03:1007.97|2025-01-03:1007.97|2025-02-03:1007.97,03-12-2024,none,Use the selected installment schedule to complete the request by 2025-02-05. The forecast keeps the USD 1700 minimum protected.
+request_167,26158.37,not_affordable,not_recommended,none,18-07-2025,none,Do not proceed by 2025-05-31. No eligible payment plan keeps the ZAR 31200 minimum protected through the 90-day forecast.
+request_168,40524.19,affordable_with_plan,partial_payment,2026-01-07:40524.19|2026-01-16:8855.81,16-01-2026,none,Pay INR 40524.19 on the request date and the remaining amount on 2026-01-16. This completes the request while protecting the minimum balance.
+request_169,36392.87,affordable_with_plan,full_payment,2024-03-04:41976,19-05-2024,reduce_to:event_15570:545.6,Use the permitted spending changes before paying the full ZAR 41976 today. The adjusted 90-day forecast keeps the minimum balance protected.
+request_170,32199489.1,affordable_with_plan,installments,2025-08-06:12804480|2025-09-03:12804480|2025-10-01:12804480,16-08-2025,none,Use the selected installment schedule to complete the request by 2025-10-04. The forecast keeps the IDR 24715800 minimum protected.
+request_171,77.33,not_affordable,not_recommended,none,,none,Do not proceed by 2026-09-10. No eligible payment plan keeps the EUR 500 minimum protected through the 90-day forecast.
+request_172,10200,affordable_with_plan,installments,2024-06-05:5304|2024-07-03:5304,05-06-2024,none,Use the selected installment schedule to complete the request by 2024-07-15. The forecast keeps the ZAR 27200 minimum protected.
+request_173,68174.28,affordable_with_plan,installments,2025-11-21:39173.33|2025-12-19:39173.33|2026-01-16:39173.33,16-11-2025,none,Use the selected installment schedule to complete the request by 2026-01-17. The forecast keeps the INR 79100 minimum protected.
+request_174,1146.2,affordable_with_plan,installments,2026-04-04:397.35|2026-05-04:397.35|2026-06-03:397.35,04-04-2026,none,Use the selected installment schedule to complete the request by 2026-06-07. The forecast keeps the EUR 700 minimum protected.
+request_175,2346.3,affordable_now,full_payment,2024-09-06:2346.3,06-09-2024,none,Pay EUR 2346.3 today. The 90-day forecast keeps at least EUR 1700 available.
+request_176,317.61,not_affordable,not_recommended,none,16-04-2025,none,Do not proceed by 2025-02-27. No eligible payment plan keeps the EUR 600 minimum protected through the 90-day forecast.
+request_177,195.95,not_affordable,not_recommended,none,,none,Do not proceed by 2026-01-25. No eligible payment plan keeps the USD 1300 minimum protected through the 90-day forecast.
+request_178,2938.1,affordable_with_plan,installments,2024-12-07:1018.54|2025-01-07:1018.54|2025-02-07:1018.54,07-12-2024,none,Use the selected installment schedule to complete the request by 2025-02-12. The forecast keeps the EUR 1400 minimum protected.
+request_179,9043940.16,not_affordable,not_recommended,none,18-07-2025,none,Do not proceed by 2025-07-15. No eligible payment plan keeps the IDR 41430800 minimum protected through the 90-day forecast.
+request_180,0,not_affordable,not_recommended,none,,none,Do not proceed by 2026-09-02. No eligible payment plan keeps the INR 37300 minimum protected through the 90-day forecast.
+request_181,120.88,not_affordable,not_recommended,none,,none,Do not proceed by 2024-04-07. No eligible payment plan keeps the USD 2000 minimum protected through the 90-day forecast.
+request_182,65714,affordable_now,full_payment,2025-08-05:65714,05-08-2025,none,Pay ZAR 65714 today. The 90-day forecast keeps at least ZAR 31100 available.
+request_183,19630306.94,not_affordable,not_recommended,none,,none,Do not proceed by 2026-06-18. No eligible payment plan keeps the IDR 11878300 minimum protected through the 90-day forecast.
+request_184,12251.44,not_affordable,not_recommended,none,,none,Do not proceed by 2024-07-30. No eligible payment plan keeps the INR 110800 minimum protected through the 90-day forecast.
+request_185,280.3,not_affordable,not_recommended,none,17-01-2026,none,Do not proceed by 2026-01-15. No eligible payment plan keeps the EUR 1300 minimum protected through the 90-day forecast.
+request_186,0,not_affordable,not_recommended,none,,none,Do not proceed by 2026-03-15. No eligible payment plan keeps the ZAR 22000 minimum protected through the 90-day forecast.
+request_187,52715.46,affordable_later,wait,2024-10-14:187500,14-10-2024,none,Pay INR 187500 in full on 2024-10-14. Paying sooner would put the INR 128300 minimum at risk.
+request_188,0,not_affordable,not_recommended,none,,none,Do not proceed by 2025-03-04. No eligible payment plan keeps the EUR 900 minimum protected through the 90-day forecast.
+request_189,488.4,affordable_now,full_payment,2026-07-04:488.4,04-07-2026,none,Pay EUR 488.4 today. The 90-day forecast keeps at least EUR 400 available.
+request_190,568.84,affordable_later,wait,2024-12-16:2557.5,16-12-2024,none,Pay EUR 2557.5 in full on 2024-12-16. Paying sooner would put the EUR 1600 minimum at risk.
+request_191,664.4,affordable_now,full_payment,2025-05-03:664.4,03-05-2025,none,Pay EUR 664.4 today. The 90-day forecast keeps at least EUR 500 available.
+request_192,108.33,not_affordable,not_recommended,none,29-06-2026,none,Do not proceed by 2026-05-11. No eligible payment plan keeps the USD 1000 minimum protected through the 90-day forecast.
+request_193,70.72,affordable_with_plan,installments,2024-03-21:420.23|2024-04-21:420.23|2024-05-22:420.23,18-04-2024,none,Use the selected installment schedule to complete the request by 2024-05-28. The forecast keeps the EUR 1000 minimum protected.
+request_194,47429.67,affordable_later,wait,2025-10-17:132800,17-10-2025,none,Pay INR 132800 in full on 2025-10-17. Paying sooner would put the INR 113600 minimum at risk.
+request_195,947.71,not_affordable,not_recommended,none,19-03-2026,none,Do not proceed by 2026-03-11. No eligible payment plan keeps the EUR 700 minimum protected through the 90-day forecast.
+request_196,762.3,affordable_now,full_payment,2024-06-03:762.3,03-06-2024,none,Pay EUR 762.3 today. The 90-day forecast keeps at least EUR 500 available.
+request_197,0,not_affordable,not_recommended,none,,none,Do not proceed by 2026-01-21. No eligible payment plan keeps the IDR 26245900 minimum protected through the 90-day forecast.
+request_198,185800,affordable_now,full_payment,2026-07-07:185800,07-07-2026,none,Pay INR 185800 today. The 90-day forecast keeps at least INR 124300 available.
+request_199,23674000,affordable_with_plan,installments,2024-09-07:8206986.67|2024-10-08:8206986.67|2024-11-08:8206986.67,04-09-2024,none,Use the selected installment schedule to complete the request by 2024-11-10. The forecast keeps the IDR 25359500 minimum protected.
+request_200,21717000,affordable_now,full_payment,2025-02-06:21717000,06-02-2025,none,Pay IDR 21717000 today. The 90-day forecast keeps at least IDR 20114600 available.
+request_201,23997000,affordable_now,full_payment,2026-04-03:23997000,03-04-2026,none,Pay IDR 23997000 today. The 90-day forecast keeps at least IDR 17304500 available.
+request_202,123900,affordable_now,full_payment,2024-12-05:123900,05-12-2024,none,Pay INR 123900 today. The 90-day forecast keeps at least INR 147800 available.
+request_203,1442.1,affordable_with_plan,installments,2025-05-10:499.93|2025-06-07:499.93|2025-07-05:499.93,07-05-2025,none,Use the selected installment schedule to complete the request by 2025-07-08. The forecast keeps the EUR 1400 minimum protected.
+request_204,0,not_affordable,not_recommended,none,,none,Do not proceed by 2026-01-31. No eligible payment plan keeps the EUR 1300 minimum protected through the 90-day forecast.
+request_205,10621000,affordable_now,full_payment,2024-03-06:10621000,06-03-2024,none,Pay IDR 10621000 today. The 90-day forecast keeps at least IDR 13994300 available.
+request_206,1404.7,affordable_with_plan,installments,2025-08-03:486.96|2025-08-31:486.96|2025-09-28:486.96,03-08-2025,none,Use the selected installment schedule to complete the request by 2025-09-29. The forecast keeps the EUR 900 minimum protected.
+request_207,6089.22,affordable_later,wait,2026-07-16:11830,16-07-2026,none,Pay ZAR 11830 in full on 2026-07-16. Paying sooner would put the ZAR 13600 minimum at risk.
+request_208,2920844.95,affordable_later,wait,2024-06-16:4413000,16-06-2024,none,Pay IDR 4413000 in full on 2024-06-16. Paying sooner would put the IDR 10470700 minimum at risk.
+request_209,1394.53,not_affordable,not_recommended,none,,none,Do not proceed by 2025-11-25. No eligible payment plan keeps the ZAR 18400 minimum protected through the 90-day forecast.
+request_210,839.64,affordable_with_plan,partial_payment,2026-04-06:839.64|2026-04-16:520.38,16-04-2026,none,Pay USD 839.64 on the request date and the remaining amount on 2026-04-16. This completes the request while protecting the minimum balance.
+request_211,114.54,affordable_later,wait,2024-09-16:1788.6,16-09-2024,none,Pay EUR 1788.6 in full on 2024-09-16. Paying sooner would put the EUR 1500 minimum at risk.
+request_212,4199585.27,not_affordable,not_recommended,none,,none,Do not proceed by 2025-02-28. No eligible payment plan keeps the IDR 29579800 minimum protected through the 90-day forecast.
+request_213,2565.97,not_affordable,not_recommended,none,,none,Do not proceed by 2026-03-22. No eligible payment plan keeps the USD 2100 minimum protected through the 90-day forecast.
+request_214,46889.65,affordable_with_plan,partial_payment,2024-12-04:46889.65|2024-12-17:22860.35,17-12-2024,none,Pay INR 46889.65 on the request date and the remaining amount on 2024-12-17. This completes the request while protecting the minimum balance.
+request_215,29986,affordable_with_plan,installments,2025-05-09:10395.15|2025-06-06:10395.15|2025-07-04:10395.15,06-05-2025,none,Use the selected installment schedule to complete the request by 2025-07-10. The forecast keeps the ZAR 15700 minimum protected.
+request_216,631.81,affordable_later,wait,2026-07-17:3332.4,17-07-2026,none,Pay USD 3332.4 in full on 2026-07-17. Paying sooner would put the USD 1800 minimum at risk.
+request_217,18538.38,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,16-03-2024,none,Use the selected installment schedule to complete the request by 2024-05-21. The forecast keeps the ZAR 26800 minimum protected.
+request_218,25332082.73,affordable_with_plan,installments,2025-08-07:21195893.33|2025-09-04:21195893.33|2025-10-02:21195893.33,16-09-2025,none,Use the selected installment schedule to complete the request by 2025-10-06. The forecast keeps the IDR 34477200 minimum protected.
+request_219,698.79,affordable_with_plan,installments,2026-04-07:580.01|2026-05-07:580.01|2026-06-06:580.01,16-05-2026,none,Use the selected installment schedule to complete the request by 2026-06-13. The forecast keeps the EUR 1100 minimum protected.
+request_220,51.34,not_affordable,not_recommended,none,,none,Do not proceed by 2024-07-03. No eligible payment plan keeps the EUR 1100 minimum protected through the 90-day forecast.
+request_221,109800,affordable_now,full_payment,2025-11-03:109800,03-11-2025,none,Pay INR 109800 today. The 90-day forecast keeps at least INR 81500 available.
+request_222,34078,affordable_now,full_payment,2026-01-05:34078,05-01-2026,none,Pay ZAR 34078 today. The 90-day forecast keeps at least ZAR 27300 available.
+request_223,898.7,affordable_now,full_payment,2024-09-07:898.7,07-09-2024,none,Pay EUR 898.7 today. The 90-day forecast keeps at least EUR 800 available.
+request_224,10327000,affordable_with_plan,installments,2025-02-04:5370040|2025-03-04:5370040,04-02-2025,none,Use the selected installment schedule to complete the request by 2025-03-16. The forecast keeps the IDR 22187600 minimum protected.
+request_225,9827696.7,not_affordable,not_recommended,none,17-09-2026,none,Do not proceed by 2026-09-21. No eligible payment plan keeps the IDR 17670700 minimum protected through the 90-day forecast.
+request_226,157000,affordable_now,full_payment,2024-12-03:157000,03-12-2024,none,Pay INR 157000 today. The 90-day forecast keeps at least INR 209400 available.
+request_227,12839.03,not_affordable,not_recommended,none,,none,Do not proceed by 2025-06-20. No eligible payment plan keeps the INR 62900 minimum protected through the 90-day forecast.
+request_228,0,not_affordable,not_recommended,none,,none,Do not proceed by 2026-04-30. No eligible payment plan keeps the IDR 26191200 minimum protected through the 90-day forecast.
+request_229,339.66,affordable_with_plan,installments,2024-03-18:529.29|2024-04-18:529.29|2024-05-19:529.29,19-05-2024,none,Use the selected installment schedule to complete the request by 2024-05-23. The forecast keeps the EUR 1000 minimum protected.
+request_230,3537.6,affordable_now,full_payment,2025-08-06:3537.6,06-08-2025,none,Pay EUR 3537.6 today. The 90-day forecast keeps at least EUR 2000 available.
+request_231,15566.63,not_affordable,not_recommended,none,19-03-2026,none,Do not proceed by 2026-03-17. No eligible payment plan keeps the ZAR 24300 minimum protected through the 90-day forecast.
+request_232,0,not_affordable,not_recommended,none,,none,Do not proceed by 2024-08-15. No eligible payment plan keeps the EUR 2400 minimum protected through the 90-day forecast.
+request_233,0,not_affordable,not_recommended,none,,none,Do not proceed by 2025-12-17. No eligible payment plan keeps the IDR 10365700 minimum protected through the 90-day forecast.
+request_234,278.61,affordable_later,wait,2026-08-17:1213.3,17-08-2026,none,Pay EUR 1213.3 in full on 2026-08-17. Paying sooner would put the EUR 700 minimum at risk.
+request_235,967.2,affordable_now,full_payment,2024-09-06:967.2,06-09-2024,none,Pay USD 967.2 today. The 90-day forecast keeps at least USD 700 available.
+request_236,6263226.08,not_affordable,not_recommended,none,,none,Do not proceed by 2025-02-23. No eligible payment plan keeps the IDR 16768600 minimum protected through the 90-day forecast.
+request_237,23826000,affordable_now,full_payment,2026-04-05:23826000,05-04-2026,none,Pay IDR 23826000 today. The 90-day forecast keeps at least IDR 22431500 available.
+request_238,663.6,affordable_with_plan,installments,2024-12-07:230.05|2025-01-07:230.05|2025-02-07:230.05,07-12-2024,none,Use the selected installment schedule to complete the request by 2025-02-16. The forecast keeps the USD 700 minimum protected.
+request_239,0,not_affordable,not_recommended,none,,none,Do not proceed by 2025-05-24. No eligible payment plan keeps the USD 600 minimum protected through the 90-day forecast.
+request_240,0,not_affordable,not_recommended,none,,none,Do not proceed by 2026-03-20. No eligible payment plan keeps the INR 52800 minimum protected through the 90-day forecast.
+request_241,21052000,affordable_with_plan,installments,2024-03-17:7298026.67|2024-04-17:7298026.67|2024-05-18:7298026.67,03-03-2024,none,Use the selected installment schedule to complete the request by 2024-05-25. The forecast keeps the IDR 19252000 minimum protected.
+request_242,0,not_affordable,not_recommended,none,,none,Do not proceed by 2025-08-25. No eligible payment plan keeps the EUR 600 minimum protected through the 90-day forecast.
+request_243,17468,affordable_now,full_payment,2026-07-07:17468,07-07-2026,none,Pay ZAR 17468 today. The 90-day forecast keeps at least ZAR 19900 available.
+request_244,0,not_affordable,not_recommended,none,,none,Do not proceed by 2024-07-16. No eligible payment plan keeps the ZAR 45900 minimum protected through the 90-day forecast.
+request_245,32959.74,affordable_later,wait,2025-11-16:128500,16-11-2025,none,Pay INR 128500 in full on 2025-11-16. Paying sooner would put the INR 94600 minimum at risk.
+request_246,64086,affordable_with_plan,installments,2026-04-03:22216.48|2026-05-03:22216.48|2026-06-02:22216.48,03-04-2026,none,Use the selected installment schedule to complete the request by 2026-06-02. The forecast keeps the ZAR 39300 minimum protected.
+request_247,1018.74,affordable_later,wait,2024-09-16:1059.3,16-09-2024,none,Pay EUR 1059.3 in full on 2024-09-16. Paying sooner would put the EUR 1300 minimum at risk.
+request_248,1028.62,affordable_with_plan,partial_payment,2025-02-07:1028.62|2025-03-16:936.98,16-03-2025,none,Pay USD 1028.62 on the request date and the remaining amount on 2025-03-16. This completes the request while protecting the minimum balance.
+request_249,163.41,not_affordable,not_recommended,none,19-03-2026,none,Do not proceed by 2026-03-15. No eligible payment plan keeps the USD 600 minimum protected through the 90-day forecast.
+request_250,17762.28,not_affordable,not_recommended,none,,none,Do not proceed by 2025-01-18. No eligible payment plan keeps the ZAR 35300 minimum protected through the 90-day forecast.
+request_251,1513.6,not_affordable,not_recommended,none,03-05-2025,none,Do not proceed by 2025-06-06. No eligible payment plan keeps the EUR 1300 minimum protected through the 90-day forecast.
+request_252,5932874.65,affordable_later,wait,2026-08-17:28082000,17-08-2026,none,Pay IDR 28082000 in full on 2026-08-17. Paying sooner would put the IDR 15152200 minimum at risk.
+request_253,1281.66,not_affordable,not_recommended,none,19-05-2024,none,Do not proceed by 2024-06-01. No eligible payment plan keeps the EUR 2300 minimum protected through the 90-day forecast.
+request_254,824.45,affordable_later,wait,2025-09-16:3535.2,16-09-2025,none,Pay USD 3535.2 in full on 2025-09-16. Paying sooner would put the USD 2500 minimum at risk.
+request_255,3345000,affordable_now,full_payment,2026-04-06:3345000,06-04-2026,none,Pay IDR 3345000 today. The 90-day forecast keeps at least IDR 9813900 available.
+request_256,31685.38,not_affordable,not_recommended,none,,none,Do not proceed by 2024-08-19. No eligible payment plan keeps the INR 168600 minimum protected through the 90-day forecast.
+request_257,359.02,not_affordable,not_recommended,none,17-01-2026,none,Do not proceed by 2026-01-15. No eligible payment plan keeps the USD 1600 minimum protected through the 90-day forecast.
+request_258,1113.6,affordable_now,full_payment,2026-01-07:1113.6,07-01-2026,none,Pay USD 1113.6 today. The 90-day forecast keeps at least USD 500 available.
+request_259,167.31,not_affordable,not_recommended,none,17-11-2024,none,Do not proceed by 2024-11-15. No eligible payment plan keeps the EUR 600 minimum protected through the 90-day forecast.
+request_260,8043864.42,not_affordable,not_recommended,none,,none,Do not proceed by 2025-04-18. No eligible payment plan keeps the IDR 20727700 minimum protected through the 90-day forecast.
+request_261,1830.4,affordable_now,full_payment,2026-07-03:1830.4,03-07-2026,none,Pay EUR 1830.4 today. The 90-day forecast keeps at least EUR 1500 available.
+request_262,9236000,affordable_now,full_payment,2024-12-05:9236000,05-12-2024,none,Pay IDR 9236000 today. The 90-day forecast keeps at least IDR 31018500 available.
+request_263,9084.28,not_affordable,not_recommended,none,16-06-2025,none,Do not proceed by 2025-06-15. No eligible payment plan keeps the ZAR 24100 minimum protected through the 90-day forecast.
+request_264,23210.21,not_affordable,not_recommended,none,17-06-2026,none,Do not proceed by 2026-06-15. No eligible payment plan keeps the INR 59500 minimum protected through the 90-day forecast.
+request_265,0,not_affordable,not_recommended,none,,none,Do not proceed by 2024-03-21. No eligible payment plan keeps the INR 189700 minimum protected through the 90-day forecast.
+request_266,457.87,not_affordable,not_recommended,none,17-10-2025,none,Do not proceed by 2025-10-03. No eligible payment plan keeps the EUR 900 minimum protected through the 90-day forecast.
+request_267,720.56,not_affordable,not_recommended,none,,none,Do not proceed by 2026-03-17. No eligible payment plan keeps the EUR 1500 minimum protected through the 90-day forecast.
+request_268,1033.69,affordable_with_plan,installments,2024-06-14:841.22|2024-07-15:841.22|2024-08-15:841.22,17-07-2024,none,Use the selected installment schedule to complete the request by 2024-08-15. The forecast keeps the EUR 1400 minimum protected.
+request_269,0,not_affordable,not_recommended,none,,none,Do not proceed by 2026-01-02. No eligible payment plan keeps the ZAR 23100 minimum protected through the 90-day forecast.
+request_270,242.77,not_affordable,not_recommended,none,17-08-2026,none,Do not proceed by 2026-08-30. No eligible payment plan keeps the USD 1400 minimum protected through the 90-day forecast.
+request_271,15098.75,affordable_later,wait,2024-10-16:91300,16-10-2024,none,Pay INR 91300 in full on 2024-10-16. Paying sooner would put the INR 58200 minimum at risk.
+request_272,5623164.46,affordable_with_plan,installments,2025-02-12:4709466.67|2025-03-12:4709466.67|2025-04-09:4709466.67,19-03-2025,none,Use the selected installment schedule to complete the request by 2025-04-10. The forecast keeps the IDR 7508600 minimum protected.
+request_273,10764260.96,affordable_with_plan,partial_payment,2026-04-07:10764260.96|2026-04-16:5096739.04,16-04-2026,none,Pay IDR 10764260.96 on the request date and the remaining amount on 2026-04-16. This completes the request while protecting the minimum balance.
+request_274,891.75,not_affordable,not_recommended,none,,none,Do not proceed by 2025-02-11. No eligible payment plan keeps the EUR 1800 minimum protected through the 90-day forecast.
+request_275,15884000,affordable_now,full_payment,2025-05-06:15884000,06-05-2025,none,Pay IDR 15884000 today. The 90-day forecast keeps at least IDR 12760100 available.
